@@ -16,6 +16,6 @@ https://github.com/josvanr/cde-motif-theme
 * Some X resources for your ~/.Xresources are available inside the ice_ux directory, file .../ice_ux/Xresources-icewm-theme
 
 Some references :
-* The Wikipedia page about HP_UX (Hewlett-Packard Unix) : https://fr.wikipedia.org/wiki/HP-UX
+* The Wikipedia page about HP_UX (Hewlett-Packard Unix) : https://en.wikipedia.org/wiki/HP-UX
 * The wikipedia page about Motif : https://en.wikipedia.org/wiki/Motif_%28software%29
 * The CDE (Common Desktop Environment) project page : https://sourceforge.net/projects/cdesktopenv/
