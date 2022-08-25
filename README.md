@@ -8,11 +8,13 @@ This repository contains a theme based on a former theme names FMotif from Alexa
 This theme is inspired by the HP-UX workstations look and CDE (Common Desktop Manager) based on the Motif toolkit.
 
 Some resources :
-Icewm start buttons to copy as start.xpm in the ~/.icewm/themes/ICE_UX/taskbar theme directory :
+* Icewm start buttons to copy as start.xpm in the ~/.icewm/themes/ICE_UX/taskbar theme directory :
 https://github.com/ItzSelenux/icewm-menu-buttons
 
-Gtk themes which mimic the Motif toolkit :
+* Gtk themes which mimic the Motif toolkit :
 https://github.com/josvanr/cde-motif-theme
+
+* Some X resources for your ~/.Xresources are available inside the ice_ux directory, file .../ice_ux/Xresources-icewm-theme
 
 Some references :
 The CDE (Common Desktop Environment) project page :
