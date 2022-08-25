@@ -1,5 +1,4 @@
-# ice_ux
-IceWM Theme
+# IceWM Theme : ice_ux
 
 The IceWM window manager is really versatile and easily themable and configurable. A few such scripts can be downloaded from the https://www.box-look.org/ Themes page.
 
