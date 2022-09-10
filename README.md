@@ -12,10 +12,17 @@ https://github.com/ItzSelenux/icewm-menu-buttons
 
 * josvanr's Gtk themes which mimic the Motif toolkit :
 https://github.com/josvanr/cde-motif-theme
+You will find also backdrops for your root background screen in the cde themes, I picked one from this work to provide a default background.
 
-* Some X resources for your ~/.Xresources are available inside the ice_ux directory, file .../ice_ux/Xresources-icewm-theme
+* Icewm widget style has been switched to metal, and colors have been verified and updated
+* Xft support is required but it can work without, however in this case, I have not found good enough fonts yet
+* A simple configuration file for conky is included and can be copied as ~/.conkyrc
+* Some X resources for your ~/.Xresources are available inside the ice_ux directory, file .../ice_ux/Xresources
 
 Some references :
 * The Wikipedia page about HP_UX (Hewlett-Packard Unix) : https://en.wikipedia.org/wiki/HP-UX
 * The wikipedia page about Motif : https://en.wikipedia.org/wiki/Motif_%28software%29
 * The CDE (Common Desktop Environment) project page : https://sourceforge.net/projects/cdesktopenv/
+
+Hope the updated version will please you,
+Stéphane
