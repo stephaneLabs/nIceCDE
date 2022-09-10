@@ -1,0 +1,13 @@
+This work is provided with no guarantee
+-----------------------------------------------
+* Preferences example added
+* Prefoverride example added
+* Toolbar example added
+* Startup example added
+* Conkyrc example added
+* Background image bg.png added
+* Updated default.theme, changed to Look = metal, updated fonts, better with Xft support
+* You can verify and/or modify the files : "preferences", "prefoverride" and "toolbar" and if you wish copy them or part of them in your ~/.icewm directory
+* "conkyrc" can be copied in your home directory as .conkyrc
+* "Xresources" can be copied in your home directory as .Xresources or .Xdefaults
+* the grun application can be installed and used to launch programs without opening an xterm
