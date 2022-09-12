@@ -1,3 +1,5 @@
+Changelog 09 10 2022
+
 This work is provided with no guarantee
 -----------------------------------------------
 * Preferences example added
@@ -10,4 +12,6 @@ This work is provided with no guarantee
 * You can verify and/or modify the files : "preferences", "prefoverride" and "toolbar" and if you wish copy them or part of them in your ~/.icewm directory
 * "conkyrc" can be copied in your home directory as .conkyrc
 * "Xresources" can be copied in your home directory as .Xresources or .Xdefaults
-* the grun application can be installed and used to launch programs without opening an xterm
+* The grun application can be installed and used to launch programs without opening an xterm
+* The volumeicon-alsa package can be installed, at least on Debian, and a volume button can be inserted in the tasbar by writting 'volumeicon &' in your '~/.icewm/startup' file
+* Working on an iconset to provide some CDE icons
