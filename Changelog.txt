@@ -21,3 +21,6 @@ the icons but the navigating arrows are not ok.
 * Added two wallpapers under CC0 in the theme background directory and removed previous bg.png tile.
 * Fixed a problem of font for the clock applet
 * Bitstream Vera Serif Roman is a good font for the GTK menus.
+* Added time between clics for double clic
+* Added blinking cursor for xterm
+
