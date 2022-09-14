@@ -1,4 +1,4 @@
-Changelog 09 10 2022
+Changelog 14 10 2022
 
 This work is provided with no guarantee
 -----------------------------------------------
@@ -18,3 +18,6 @@ This work is provided with no guarantee
 in .png format by Arenyart (Andrew Enyart, USA). See https://www.gnome-look.org/p/1120392/ for the original theme.
 Mainly copied icons and renamed some others to be freedesktop compliant. Modified the theme script to work with Gtk apps. The result is ok for
 the icons but the navigating arrows are not ok.
+* Added two wallpapers under CC0 in the theme background directory and removed previous bg.png tile.
+* Fixed a problem of font for the clock applet
+* Bitstream Vera Serif Roman is a good font for the GTK menus.
