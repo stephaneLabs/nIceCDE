@@ -18,6 +18,7 @@ You will find also backdrops for your root background screen in the cde themes, 
 * Xft support is required but it can work without, however in this case, I have not found good enough fonts yet
 * A simple configuration file for conky is included and can be copied as ~/.conkyrc
 * Some X resources for your ~/.Xresources are available inside the ice_ux directory, file .../ice_ux/Xresources
+* And some configuration and menu files for icewm in the tar.gz file.
 
 Some references :
 * The Wikipedia page about HP_UX (Hewlett-Packard Unix) : https://en.wikipedia.org/wiki/HP-UX
