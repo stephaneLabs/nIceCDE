@@ -1,0 +1,1 @@
+* Do some harmonization between config files in the 3 themes, the Green one should have the latest version of key, preferences, prefoverride, toolbar and winoptions.
