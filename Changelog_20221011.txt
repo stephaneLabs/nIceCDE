@@ -26,4 +26,5 @@ Mainly copied icons and renamed some others to be freedesktop compliant. Modifie
 ---------------
 * Comes now in 3 colors schemes for Icewm.
 * Added some backdrops in .xbm format which can be used in the icewm startup file.
+* Initial licence was CC-BY, it has been changed to LGPL 3 which is similar.
 
