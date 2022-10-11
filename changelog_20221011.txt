@@ -22,5 +22,8 @@ Mainly copied icons and renamed some others to be freedesktop compliant. Modifie
 * Removed the italic option for menu font and windows titlebar font
 * Added a menu_en(english) and menu_fr(french) to copy in your ~/.icewm/menu to get a basis for a menu which is freedesktop compliant.
 * Made the icons and font a little bigger in the menu
-* Comes now in 3 colors schemes for Icewm
+11 october 2022
+---------------
+* Comes now in 3 colors schemes for Icewm.
+* Added some backdrops in .xbm format which can be used in the icewm startup file.
 
