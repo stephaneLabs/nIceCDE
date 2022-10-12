@@ -4,7 +4,7 @@ The IceWM window manager is really versatile and easily themable and configurabl
 
 This repository contains a theme based on a former theme names FMotif from Alexander Voigt which I found on the page : https://www.box-look.org/p/1018167/
 
-First inspired by the HP-UX workstations look and CDE (Common Desktop Manager) based on the Motif toolkit, this project has evolved and is now proposed in 3 colors schemes for icewm. It has been enhanced following some discussions with missTell on Box-Look.org in september/october 2022.
+First inspired by the HP-UX workstations look and CDE (Common Desktop Manager) based on the Motif toolkit, this project has evolved and is now proposed in 4 colors schemes for icewm. It has been enhanced following some discussions with missTell on Box-Look.org in september/october 2022.
 
 Some resources :
 * Icewm start buttons to copy as start.xpm in the ~/.icewm/themes/ICE_UX/taskbar theme directory :
