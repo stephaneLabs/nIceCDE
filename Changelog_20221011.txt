@@ -27,4 +27,8 @@ Mainly copied icons and renamed some others to be freedesktop compliant. Modifie
 * Comes now in 3 colors schemes for Icewm.
 * Added some backdrops in .xbm format which can be used in the icewm startup file.
 * Initial licence was CC-BY, it has been changed to LGPL 3 which is similar.
-
+12 october 2022
+---------------
+* fixed a problem on right bottom corner on Mustard, Green and Crimson themes for selected windows.
+* Crimson theme comes with 2 possible default.theme files.
+* Added new screenshots of the 4 colors schemes.
