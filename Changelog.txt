@@ -32,3 +32,8 @@ Mainly copied icons and renamed some others to be freedesktop compliant. Modifie
 * fixed a problem on right bottom corner on Mustard, Green and Crimson themes for selected windows.
 * Crimson theme comes with 2 possible default.theme files.
 * Added new screenshots of the 4 colors schemes.
+14 october 2022
+---------------
+* XPM pixmaps inside each theme
+* Enhancement of menu pixmap
+* Enhancement of pager pixmaps
