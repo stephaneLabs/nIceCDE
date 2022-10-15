@@ -7,7 +7,7 @@ This repository contains a theme based on a former theme names FMotif from Alexa
 First inspired by the HP-UX workstations look and CDE (Common Desktop Manager) based on the Motif toolkit, this project has evolved and is now proposed in 4 colors schemes for icewm. It has been enhanced following some discussions with missTell on Box-Look.org in september/october 2022.
 
 The icontheme is by ** missTell (2022) ** who gently accepted to structure a real state of the art Gtk iconset from icons coming from former KDE iconset.
-
+Webpage of the iconset : https://www.pling.com/p/1920644/
 
 Some resources :
 * Icewm start buttons to copy as start.xpm in the ~/.icewm/themes/ICE_UX/taskbar theme directory :
