@@ -39,4 +39,4 @@ Mainly copied icons and renamed some others to be freedesktop compliant. Modifie
 * Enhancement of pager pixmaps
 15 october 2022
 ---------------
-* Uploaded the Gtk/Xfce4 Gtk Iconset by missTell, to replace the previous iconset.
+* Uploaded the Gtk/Xfce4 Gtk Iconset by missTell, to replace the previous iconset (webpage : https://www.pling.com/p/1920644/).
