@@ -40,3 +40,6 @@ Mainly copied icons and renamed some others to be freedesktop compliant. Modifie
 15 october 2022
 ---------------
 * Uploaded the Gtk/Xfce4 Gtk Iconset by missTell, to replace the previous iconset (webpage : https://www.pling.com/p/1920644/).
+17 october 2022
+---------------
+Added a collapse and a windows button.
