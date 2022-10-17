@@ -9,6 +9,8 @@ First inspired by the HP-UX workstations look and CDE (Common Desktop Manager) b
 The icontheme is by ** missTell (2022) ** who gently accepted to structure a real state of the art Gtk iconset from icons coming from former KDE iconset.
 Webpage of the iconset : https://www.pling.com/p/1920644/
 
+Collapse icon inspired by <a href="https://www.flaticon.com/free-icons/glasses" title="glasses icons">Glasses icons created by Those Icons - Flaticon</a>
+
 Some resources :
 * Icewm start buttons to copy as start.xpm in the ~/.icewm/themes/ICE_UX/taskbar theme directory :
 https://github.com/ItzSelenux/icewm-menu-buttons
