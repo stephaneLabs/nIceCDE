@@ -12,13 +12,10 @@ Webpage of the iconset : https://www.pling.com/p/1920644/
 Desktop icon inspired by <a href="https://www.flaticon.com/free-icons/glasses" title="glasses icons">Glasses icons created by Those Icons - Flaticon</a>
 
 Some resources :
-* Icewm start buttons to copy as start.xpm in the ~/.icewm/themes/ICE_UX/taskbar theme directory :
-https://github.com/ItzSelenux/icewm-menu-buttons
-
-For the Default color theme :
 * The excellent CDE icon theme by missTell : https://www.pling.com/p/1920644
-* josvanr's Gtk themes which mimic the Motif toolkit :
+* josvanr's Gtk themes which mimic the Motif toolkit for the Default color scheme and the Crimson color scheme :
 https://github.com/josvanr/cde-motif-theme
+* Itzselenux start.xpm buttons for your distro : https://github.com/ItzSelenux/icewm-menu-buttons
 
 Some references :
 * The Wikipedia page about HP_UX (Hewlett-Packard Unix) : https://en.wikipedia.org/wiki/HP-UX
@@ -27,5 +24,5 @@ Some references :
 
 See the changelog for an idea of the maturation of the project.
 
-Hope the updated version will please you,
+Hope this work will please you,
 Stéphane
