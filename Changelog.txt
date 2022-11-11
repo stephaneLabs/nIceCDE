@@ -38,17 +38,27 @@ october 14, 2022
 * Enhancement of menu pixmap
 * Enhancement of pager pixmaps
 october 15, 2022
----------------
+----------------
 * Uploaded the Gtk/Xfce4 Gtk Iconset by missTell, to replace the previous iconset (webpage : https://www.pling.com/p/1920644/).
 
 october 17, 2022
----------------
+----------------
 Added a desktop and a windows button.
+
 November 10, 2022
 -----------------
 * made pixmaps for the toolbar and worked on the toolbar look
 * worked on the pager buttons
 * made a new icon for nIceCDE start menu
 * removed the conkyrc file from the archive for the moment
+
+November 11, 2022
+-----------------
+* Went back to a more simple toolbar/taskbar because of side effects
+on the log off dialog box.
+* Put a gradient option on pager buttons, to allows changes in names of
+the Desks, changing the name's length too much will not show a very good result>
+now possible.
 * made a .xpm to get a background image
 * worked on the menu focus and the menu separators
+* worked on the Default and Crimson themes.
