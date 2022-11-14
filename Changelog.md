@@ -66,4 +66,4 @@ now possible.
 November 14, 2022
 ------------------------
 * Made a 5th color scheme named Sandy
-* Made several .xpm tiles to provide different possible backgrounds
+* Made several .xpm tiles to provide different possible backgrounds. They are included in the bachgrounds/ directory of each archive file.
