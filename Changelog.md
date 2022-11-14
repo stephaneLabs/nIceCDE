@@ -62,3 +62,8 @@ now possible.
 * made a .xpm to get a background image
 * worked on the menu focus and the menu separators
 * worked on the Default and Crimson themes.
+
+November 14, 2022
+------------------------
+* Made a 5th color scheme names Sandy
+* Made several .xpm tiles to provide different possible backgrounds
