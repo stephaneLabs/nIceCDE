@@ -65,5 +65,5 @@ now possible.
 
 November 14, 2022
 ------------------------
-* Made a 5th color scheme names Sandy
+* Made a 5th color scheme named Sandy
 * Made several .xpm tiles to provide different possible backgrounds
